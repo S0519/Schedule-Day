@@ -12,5 +12,6 @@ https://www.w3schools.com/js/ https://developer.mozilla.org/en-US/
 https://s0519.github.io/Schedule-Day/
 
 
-[Day scheduler.pdf](https://github.com/S0519/Schedule-Day/files/6460354/Day.scheduler.pdf)
+![Day scheduler](https://user-images.githubusercontent.com/80322588/117844201-19301080-b245-11eb-8497-9fa7743a70fb.png)
+
 
